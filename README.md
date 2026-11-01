@@ -224,4 +224,4 @@ Ad-Aware is available as a full free version, providing all features and updates
 Download Ad-Aware today and secure your computer with the best antispyware software available!
 
 ---
-**Last updated:** 2026-11-01 15:36:35 UTC
+**Last updated:** 2026-11-01 19:58:56 UTC
